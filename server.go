@@ -16,4 +16,5 @@ func main() {
 	log.SetOutput(file)
 
 	log.Println("CLAT SERVER STARTED")
+
 }
