@@ -20,6 +20,7 @@ func main() {
 	log.SetOutput(file)
 
 	log.Println("CLAT SERVER STARTED")
+    fmt.Println("CLAT SERVER has started...\n- Check logfile for further detail.")
 
 	// getting port
 	var port string
